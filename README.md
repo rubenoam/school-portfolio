@@ -1,2 +1,2 @@
-# school-portfolio
-Created with CodeSandbox
+# portfolio website for school
+build using react
